@@ -1,2 +1,4 @@
 # Git Tutorial by Kalob on udemy
-This course was made available free on udemy
+The course  'Git for beginners' was made available free on udemy
+
+Second Modification made.
